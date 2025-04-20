@@ -12,7 +12,7 @@ Copy all files to a directory
 
 Extract the files
 
-```unzip main.zip```
+```unzip -j main.zip```
 
 Make autoSetup.sh executable
 
